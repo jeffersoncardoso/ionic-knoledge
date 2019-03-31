@@ -1,5 +1,7 @@
 {
   "name": "ionic-knoledge",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
